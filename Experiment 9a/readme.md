@@ -5,4 +5,4 @@
 ![Expectedoutput](Exceptedoutput.png)
 
 # ExecutedOutput
-![Executedoutput](Executedoutput.png)
+![Executedoutput](Excutedoutput.png)
