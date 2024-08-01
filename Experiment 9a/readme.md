@@ -2,7 +2,7 @@
 ![program file](Fcfs_504.py)
 
 # ExpectedOutput
-![ExpectedOutput](ExpectedOutput.png)
+![Expectedoutput](Expectedoutput.png)
 
 # ExecutedOutput
-![ExecutedOutput](ExecutedOutput.png)
+![Executedoutput](Executedoutput.png)
